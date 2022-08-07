@@ -6,6 +6,11 @@ Janky remake of Dray Agha(Purp1eW0lf) Pull_logs_and_zip.ps1
 Fails to contuine if file is not found
 Fails to Excute if output directory not created 
 
+## Credits
+
+https://github.com/Purp1eW0lf
+https://gist.github.com/Purp1eW0lf/e0b757e66d5da629c1d03e2941fa5b4b
+
 ## Set up
 
 As We require admin rights to pull these logs I have complied the program with py2exe
